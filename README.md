@@ -1,2 +1,3 @@
 # Sistema-banc-rio-com-python
 Neste desafio, desenvolvemos um sistema bancário que realiza as seguintes operações:
+Depositar, sacar, e pedir o extrato. Foram aplicadas conhecimentos como o uso de variáveis, estrutura de repetição, condições, operadores....
